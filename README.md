@@ -1,7 +1,7 @@
 # Final Project DTS FGA 2024 x Binar Academy - Data Science
 This repository contains the completion of challenges in the DTS FGA 2024 x Binar Academy - Data Science program. The focus is on designing an interactive dashboard about the Covid-19 case and predicting customer churn in telecommunication companies using a machine learning classification approach.
 
-## Challenge 1 - Designing an Interactive Covid-19 Dashboard 🦠
+## Challenge 1 - Designing an Informative Covid-19 Dashboard 🦠
 ![image](https://github.com/annaffilaputri/fgaxbinar-datascience/blob/main/Dashboard_Covid.jpg?raw=true)
 Link:
 [Covid-19 Dashboard 🦠](https://lookerstudio.google.com/reporting/ed69b302-696e-4bc9-931c-264effc4b2a2)
